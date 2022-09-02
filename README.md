@@ -21,7 +21,7 @@
 | ~习题2.2~ | 百鸡问题（北京哈尔滨工业大学复试上机题） | http://t.cn/E9ldhru |  https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.2.cpp|
 | 习题2.3 | old bill（上海交通大学复试上机题）       | http://t.cn/E9jqijR | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.3.cpp|
 | 习题2.4 | Repeater（北京大学复试上机题）          | http://t.cn/E9jcaVb  | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.4.cpp|
-| 习题2.5 | Hello World for U（浙江大学复试上机题） | http://t.cn/E9jizni  | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.5.cpp|
+| ~习题2.5~ | Hello World for U（浙江大学复试上机题） | http://t.cn/E9jizni  | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.5.cpp|
 | 习题2.6 | 日期差值（上海交通大学复试上机题）   | http://t.cn/E9Yz0LE | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.6.cpp|
 | 习题2.7 | Day of Week（清华大学复试上机题）    | http://t.cn/E9YZLbi | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.7.cpp|
 | 习题2.8 | 日期类（北京理工大学复试上机题）     | http://t.cn/E9RJUp4 | https://github.com/BenedictYoung/Practice/blob/master/Chapter2/2.8.cpp|
